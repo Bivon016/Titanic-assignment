@@ -1,4 +1,5 @@
 
+
 This project analyzes the Titanic dataset to explore factors that influenced passenger survival. The goal is to prepare the dataset for predictive modeling by performing:
 
 Data cleaning
@@ -212,3 +213,4 @@ pip install -r requirements.txt
 # Conclusion
 
 Through systematic **data cleaning, feature engineering, and feature selection**, the Titanic dataset was transformed into a structured dataset suitable for predictive modeling. The engineered features and selected variables reveal key factors that influenced survival outcomes.
+
